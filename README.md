@@ -3,7 +3,7 @@
 
 To View the live site click [here &rarr;](https://64a9222c3571ea5f65652fdc--beautiful-mooncake-4a969d.netlify.app/)
 
-![Alt Text](./image1.png)
+![Alt Text](./img1.png)
  
 # Features
 - This form allows you to enter your personal information and preferences on a single page.
