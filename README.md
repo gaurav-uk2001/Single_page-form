@@ -1,6 +1,9 @@
 # Single_page-form
  This is a code block that generates a simple feedback form. The form has fields for name, email, comment, and some options to choose from. The options include checkboxes, radio buttons, and a dropdown list of cars. When the user submits the form, all the details are displayed on the console and in an alert box.
 
+To View the live site click [here &rarr;](https://64a9222c3571ea5f65652fdc--beautiful-mooncake-4a969d.netlify.app/)
+
+![Alt Text](./image1.png)
  
 # Features
 - This form allows you to enter your personal information and preferences on a single page.
